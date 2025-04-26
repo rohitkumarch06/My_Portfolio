@@ -59,7 +59,7 @@ function Skills() {
                   <path d="M6 20v-6"></path>
                 </svg>
               </div>
-              <h3>Core Concept</h3>
+              <h3>Core Concept and falna</h3>
             </div>
             <div className="skill-list">
               <span className="skill-item">Operating System</span>
